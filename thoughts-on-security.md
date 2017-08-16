@@ -39,11 +39,9 @@ Some times I dream of personal things, some times I dream of vulns for work.
 No matter what, when I get up, I have to write those down.
 
 
-[^heuristics]: The technical term is "heuristics". I prefer "strategy" in this
-  article, and "strategems" for strategic concepts that inform your strategy.
+[^heuristics]: The technical term is "heuristics". I prefer "strategy" in this article, and "strategems" for strategic concepts that inform your strategy.
 
-[^strategem]: A concept that informs the construction of your strategy. The
-  strategy ultimately tells you what tactic to choose in any given situation.
+[^strategem]: A concept that informs the construction of your strategy. The strategy ultimately tells you what tactic to choose in any given situation.
 
 
 # Strategems
