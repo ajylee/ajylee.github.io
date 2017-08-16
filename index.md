@@ -26,5 +26,8 @@ Things I'm thinking about
 - Maybe I'll say later
 
 ## Articles
+- [the-question-why.md](the-question-why.md)
+
+
 - [thoughts-on-security.md](thoughts-on-security.md)
 
