@@ -24,3 +24,6 @@ Things I'm thinking about
 - Extend Call Map with pyt and FB Infer
 - Extend Call Map with dumb-jump.el - type definition finder 
 - Maybe I'll say later
+
+
+See [table of contents][table-of-contents.md].
