@@ -1,7 +1,7 @@
 
 # Formalizing Pentesting (draft ver 0.1)
 
-:date: 2017-08-16
+ver 0.1 date: 2017-08-16
 
 Pentesting is a search algo for vulns. The goal is falsifying the proposition
 that the target fulfills its security specs (which might not be provided and
