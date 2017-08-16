@@ -18,18 +18,20 @@ inform what tactics to apply to get new statements. See below for more on
 tactics. The point here is to say that if there is a Formal Methods concept, it
 can be applied to pentesting.
 
-Now let's translate this into practice. When I do a pentest, I first try the
-pray-and-spray strategy. Just look around, sniffing for badness. At the same
-time be looking for goodness, and get a grip on how the target behaves, what
-it's supposed to do, and try to test out if it really is doing what it says on
-the tin. Exercise all the functionality.
+Now let's translate this into practice. When I do a pentest, I first try what I
+call the spray-and-pray strategy. I just look around, looking at whatever
+catches my eye, searching for hints of badness. At the same time I look for
+goodness, and get a grip on how the target behaves, what it's supposed to do,
+and whether it really is doing that. I try to exercise all the functionality.
+This part is entirely intuitive and I'm not going to attempt here to connect it
+to anything I have seen in Formal Methods.
 
-If something looks good in regular walk-through and spray-and-pray, I step it
-up by listing out all the security specs and a percentage on how confident I am
-in them. I never write 100%. If I write 99% it means I'm not coming back to
-it. These are not formal specs, but the more I can formalize them, the more
-logic holes I can catch. Then I use a conflict-driven approach -- I argue with
-myself (see below).
+After the regular walk-through and spray-and-pray, I list out all the security
+specs and a percentage on how confident I am in them. (I never write 100%. If I
+write 99% it means I'm not coming back to it.) These are not formal specs, but
+the more I can formalize them, the more logic holes I can catch. Then I use
+both the meet-and-the-middle and conflict-driven strategems to develop attacks
+or assert safety (within assumptions). See below for more on strategems.
 
 Now if everything checks out with your first spec, I go back and make it more
 detailed. Think about all the classes of attacks to inform your spec. When I
