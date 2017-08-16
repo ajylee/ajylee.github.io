@@ -26,5 +26,3 @@ Things I'm thinking about
 - Maybe I'll say later
 
 ## Articles
-- [thoughts-on-security.md](thoughts-on-security.md)
-
