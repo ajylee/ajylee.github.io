@@ -11,9 +11,9 @@ theorem proving.  Searching for contradictions is a common approach to proving
 theorems. This is essentially pentesting the theorems. There are various
 strategies with which you choose the next tactic.  One example of a tactic is
 induction -- you try to deduce a base case and an inductive case to prove some
-goal. One strategic concept is to backtrack -- start from the target statement
-and work backwards, its reverse being forward propogation, start from the known
-statements and derive more statements, with some strategem[^strategem] to
+goal. One strategem[^strategem] is to backtrack -- start from the target statement
+and work backwards. Its reverse is forward propogation -- start from the known
+statements and derive more statements, with some other strategem to
 inform what tactics to apply to get new statements. See below for more on
 tactics. The point here is to say that if there is a Formal Methods concept, it
 can be applied to pentesting.
