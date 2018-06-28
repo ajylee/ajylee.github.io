@@ -39,6 +39,13 @@ Things I'm thinking about
 - Extend Call Map with dumb-jump.el - type definition finder
 - Maybe I'll say later
 
+
+## My Profiles
+
+GitHub: <https://github.com/ajylee>  
+LinkedIn: <https://www.linkedin.com/in/andrew-lee-rigor-and-security/>  
+
+
 ## Articles
 - [the-question-why.md](the-question-why.md)
 
